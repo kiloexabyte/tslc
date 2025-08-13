@@ -20,6 +20,4 @@ function isValid(s: string): boolean {
 
     if (stack.length === 0) return true;
     return false
-
-
 };
